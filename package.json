@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "elliptic": "^6.5.3",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "underscore": "^1.9.1"
   }
 }
